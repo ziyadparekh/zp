@@ -10,16 +10,16 @@ p(meta). 06 Oct 2014 - New York
 Front end modular 'widgets' to create a website.
 Blue Apron style meal delivery service for Pakistan
 Customized course schema builder
-    -Enter what you want to study
-    -Builds the perfect lesson plan
-        -includes lectures
-        -includes media and videos
-        -includes blog posts
-        -slides & presentations
-    -Lesson plan is split up over 4 weeks
+    - Enter what you want to study
+    - Builds the perfect lesson plan
+        - includes lectures
+        - includes media and videos
+        - includes blog posts
+        - slides & presentations
+    - Lesson plan is split up over 4 weeks
 DuoLingo for code
-    -convert a line of code into another language
-    -convert a function from one language to another
-    -convert both ways
-    -best way to learn another language
-    -Ref: [http://en.wikipedia.org/wiki/Source-to-source_compiler]
+    - convert a line of code into another language
+    - convert a function from one language to another
+    - convert both ways
+    - best way to learn another language
+    - Ref: [http://en.wikipedia.org/wiki/Source-to-source_compiler]
